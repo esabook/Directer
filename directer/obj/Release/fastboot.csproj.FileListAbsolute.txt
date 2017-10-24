@@ -1,0 +1,5 @@
+E:\DOCUMENTS\Visual Studio 2015\Projects\shutdown\shutdown\bin\Release\fastboot.exe.config
+E:\DOCUMENTS\Visual Studio 2015\Projects\shutdown\shutdown\bin\Release\fastboot.exe
+E:\DOCUMENTS\Visual Studio 2015\Projects\shutdown\shutdown\bin\Release\fastboot.pdb
+E:\DOCUMENTS\Visual Studio 2015\Projects\shutdown\shutdown\obj\Release\fastboot.exe
+E:\DOCUMENTS\Visual Studio 2015\Projects\shutdown\shutdown\obj\Release\fastboot.pdb

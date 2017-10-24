@@ -1,0 +1,7 @@
+D:\New folder\directer\shutdown\bin\Debug\directer.exe.config
+D:\New folder\directer\shutdown\bin\Debug\directer.exe
+D:\New folder\directer\shutdown\bin\Debug\directer.pdb
+D:\New folder\directer\shutdown\obj\Debug\directer.csprojResolveAssemblyReference.cache
+D:\New folder\directer\shutdown\obj\Debug\directer.csproj.CoreCompileInputs.cache
+D:\New folder\directer\shutdown\obj\Debug\directer.exe
+D:\New folder\directer\shutdown\obj\Debug\directer.pdb
