@@ -1,6 +1,0 @@
-E:\DOCUMENTS\Visual Studio 2015\Projects\shutdown\shutdown\bin\Debug\Lewat.exe.config
-E:\DOCUMENTS\Visual Studio 2015\Projects\shutdown\shutdown\bin\Debug\Lewat.exe
-E:\DOCUMENTS\Visual Studio 2015\Projects\shutdown\shutdown\bin\Debug\Lewat.pdb
-E:\DOCUMENTS\Visual Studio 2015\Projects\shutdown\shutdown\obj\Debug\lewat.csprojResolveAssemblyReference.cache
-E:\DOCUMENTS\Visual Studio 2015\Projects\shutdown\shutdown\obj\Debug\Lewat.exe
-E:\DOCUMENTS\Visual Studio 2015\Projects\shutdown\shutdown\obj\Debug\Lewat.pdb
